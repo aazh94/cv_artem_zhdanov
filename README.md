@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
-**Name:** Artyom Zhdanov  
-**Address:** Givatayim, Knesset St. 32  
+**Name:** Artem Zhdanov  
+**Address:** Givatayim, HaKnesset St. 32  
 **Date of Birth:** 18/04/1994  
 **Phone:** +972-53-3578413  
 **Email:** strrazv@gmail.com  
