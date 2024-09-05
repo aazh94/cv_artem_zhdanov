@@ -1,50 +1,106 @@
-# Curriculum Vitae
+# Artem Zhdanov
 
-**Name:** Artem Zhdanov  
-**Address:** Givatayim, HaKnesset St. 32  
-**Date of Birth:** 18/04/1994  
+**ID Number:** 345695472  
+**Address:** Givatayim, HaKnesset St. 32, Israel  
+**Date of Birth:** April 18, 1994  
 **Phone:** +972-53-3578413  
-**Email:** strrazv@gmail.com  
+**Email:** [strrazv@gmail.com](mailto:strrazv@gmail.com)  
+**GitHub:** [https://github.com/aazh94/cv_artem_zhdanov](https://github.com/aazh94/cv_artem_zhdanov)  
+**LinkedIn:** [https://www.linkedin.com/in/artem-zhdanov-0225a5289/](https://www.linkedin.com/in/artem-zhdanov-0225a5289/)  
 
-**Languages:**
-- **Hebrew:** B+ (Continuing studies)
-- **English:** B2 (Continuing studies)
+---
+
+## Objective
+
+Aspiring System Administrator with a background in law and a strong interest in IT. Currently studying Linux System Administration and seeking to leverage analytical skills and hands-on experience in a technical environment.
+
+---
 
 ## Education
 
-- **09.2023 - 10.2024**: Professional Program at Netology: Linux System Administration, 410-hour course. Subjects studied:
-  - Introduction to IT systems and Linux-based operating systems: comprehensive introduction to Linux, basic commands, and day-to-day operations.
-  - Linux system administration: user management, file management, network configuration, and automation processes to improve efficiency.
-  - Bash programming: creating complex scripts to automate tasks, file handling, and filesystem management.
-  - Virtualization: setting up virtual servers and managing virtual infrastructure.
-  - CI/CD: implementation of automation tools such as Jenkins, Git, and Docker, building continuous integration and continuous delivery processes.
-  - System reliability and resilience: ensuring system availability and handling failures using advanced tools and methods.
-  - Data management and storage: data handling and storage, including configuring advanced storage systems and managing backup systems.
+**Netology**  
+*Linux System Administration (410-hour course)*  
+*September 2023 - October 2024 (expected)*  
+- Comprehensive introduction to Linux-based operating systems
+- User management, file management, network configuration, and automation
+- Bash scripting, virtualization, CI/CD, Git, and Docker
+- System reliability, data management, and backup solutions
 
-- **10.2023 - 07.2024**: Courses at Minhaltech: Computer Technician (Windows). Subjects studied:
-  - Familiarity with advanced equipment and troubleshooting.
-  - Introduction to different motherboard models.
-  - Understanding modern storage media and configuring them for maximum performance.
-  - Familiarity with advanced processors and hard drives.
-  - Advanced methods for recovering hard drives and creating partitions.
-  - Installation and troubleshooting of multimedia and video systems.
-  - Familiarity with various operating systems.
-  - Maintenance and diagnostics of personal computers, virus protection.
-  - Setting up computer networks, installing printers, and configuring devices.
+**Minhaltech**  
+*Computer Technician (Windows)*  
+*October 2023 - July 2024*  
+- Troubleshooting and advanced equipment handling
+- Motherboard models and modern storage media configuration
+- Installation and troubleshooting of multimedia and video systems
+- Computer networks, printer installation, and device configuration
 
-- **2017 - 2018**: Professional course: Residential Building Management  
-- **2012 - 2017**: Perm State University, Faculty of Law  
-- **2001 - 2012**: Primary + High School  
+**Perm State University**  
+*Bachelor of Law*  
+*September 2012 - June 2017*  
+- Legal studies with a focus on corporate law and residential building management
+
+---
 
 ## Work Experience
 
-- **2023 - Present**: Room Service, Dan Panorama Hotel Tel Aviv  
-- **2022 - 2023**: Waiter at West Hotel Ashdod (Salon Yevani Restaurant)  
-- **2014 - 2022**: Corporate Lawyer  
-- **2013 - 2014**: Bank Courier  
+**Room Service Attendant**  
+*Dan Panorama Hotel Tel Aviv*  
+*September 2023 – Present*  
+- Delivering exceptional room service to hotel guests
+- Ensuring customer satisfaction and timely service delivery
 
-### Additional Information:
-I am a new immigrant from Russia. In Russia, I worked as a lawyer. I moved to Israel with my family at the end of May 2022. Although I don't have direct experience working as a system administrator, my studies included many practical tasks. Additionally, I have a small personal project: a VPN service based on WireGuard and OpenVPN protocols. The server is hosted on the DigitalOcean platform and is located in Amsterdam. The project was created to help family and friends in Russia access Instagram, YouTube, and Facebook.
+**Waiter**  
+*West Hotel Ashdod (Salon Yevani Restaurant)*  
+*2022 – 2023*  
+- Provided high-quality service to restaurant patrons
+- Managed customer orders and ensured a pleasant dining experience
+
+**Corporate Lawyer**  
+*Russia*  
+*2014 – 2022*  
+- Provided legal counsel to corporate clients
+- Managed legal documentation and corporate compliance
+
+**Bank Courier**  
+*Russia*  
+*2013 – 2014*  
+- Handled and delivered sensitive banking documents
+
+---
+
+## Skills
+
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows
+- **Tools & Technologies:** Bash, Git, Ansible, Docker, Virtualization
+- **Networking:** VPN setup (WireGuard, OpenVPN)
+- **Languages:** Hebrew (Intermediate, B+), English (Intermediate, B2), Russian (Native)
+
+---
+
+## Projects
+
+**Personal VPN Service**  
+*Platform: DigitalOcean*  
+- Developed a VPN service using WireGuard and OpenVPN
+- Managed server setup and maintenance in Amsterdam
+- Provided secure internet access for family and friends in Russia
+
+---
+
+## Certificates
+
+- PC Technician (Minhaltech, July 2024)
+- Linux System Administration (Netology, Expected October 2024)
+
+---
+
+## Languages
+
+- **Hebrew:** Intermediate (B+)  
+- **English:** Fluent  
+- **Russian:** Native
+
+---
 
 ## Certificates
 
