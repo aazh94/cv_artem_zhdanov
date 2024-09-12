@@ -73,7 +73,6 @@ Aspiring System Administrator with a background in law and a strong interest in 
 - **Operating Systems:** Linux (Ubuntu, CentOS), Windows
 - **Tools & Technologies:** Bash, Git, Ansible, Docker, Virtualization
 - **Networking:** VPN setup (WireGuard, OpenVPN)
-- **Languages:** Hebrew (Intermediate, B+), English (Intermediate, B2), Russian (Native)
 
 ---
 
