@@ -41,6 +41,15 @@ Aspiring System Administrator with a background in law and a strong interest in 
 
 ---
 
+## Certificates
+
+- Linux Essentials (LPI, November 2024)
+- PC Technician (Minhaltech, July 2024)
+- Linux System Administration (Netology, October 2024)
+
+
+---
+
 ## Work Experience
 
 **Room Service Attendant**  
@@ -86,22 +95,15 @@ Aspiring System Administrator with a background in law and a strong interest in 
 
 ---
 
-## Certificates
-
-- PC Technician (Minhaltech, July 2024)
-- Linux System Administration (Netology, Expected October 2024)
-
----
-
 ## Languages
 
-- **Hebrew:** Intermediate (B+)  
+- **Hebrew:** Fluent  
 - **English:** Fluent  
 - **Russian:** Native
-
 ---
 
 ## Certificates
-
+![LPI Linux Essentials Certificate](./LE-1.jpeg) 
+![LPI Linux Essentials Exam Results](./LE-1.1.jpg)
 ![PC Technician Certificate](./Minael_Technai.jpeg)
 ![Netology Reference](./Netology.jpeg)
