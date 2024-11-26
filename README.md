@@ -58,10 +58,10 @@ Aspiring System Administrator with a background in law and practical experience 
 - Delivering exceptional room service to hotel guests
 - Ensuring customer satisfaction and timely service delivery
 
-**Website Administrator**
-*Autonomous Non-Profit Organization "Perm City Consultation Center for Housing and Utilities"*
-*Site* [жкх-пермь.рф](https://xn----jtbbqmqi0b6d.xn--p1ai/)
-*December 2020 – July 2023*
+**Website Administrator**  
+*Autonomous Non-Profit Organization "Perm City Consultation Center for Housing and Utilities"*  
+*Site* [жкх-пермь.рф](https://xn----jtbbqmqi0b6d.xn--p1ai/)  
+*December 2020 – July 2023*  
 
 - Managed website content using MODX Revolution CMS, including adding news, uploading images, and maintaining site structure
 - Administered user accounts and access controls for administrators
