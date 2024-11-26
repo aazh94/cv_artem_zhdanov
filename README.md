@@ -12,7 +12,7 @@
 
 ## Objective
 
-Aspiring System Administrator with a background in law and a strong interest in IT. Currently studying Linux System Administration and seeking to leverage analytical skills and hands-on experience in a technical environment.
+Aspiring System Administrator with a background in law and practical experience in website administration and IT projects. Currently enhancing skills in Linux System Administration, with a focus on server deployment, monitoring, and networking, aiming to contribute to a dynamic technical environment.
 
 ---
 
@@ -57,6 +57,17 @@ Aspiring System Administrator with a background in law and a strong interest in 
 *September 2023 – Present*  
 - Delivering exceptional room service to hotel guests
 - Ensuring customer satisfaction and timely service delivery
+
+**Website Administrator**
+*Autonomous Non-Profit Organization "Perm City Consultation Center for Housing and Utilities"*
+*Site* [жкх-пермь.рф](https://xn----jtbbqmqi0b6d.xn--p1ai/)
+*December 2020 – July 2023*
+
+- Managed website content using MODX Revolution CMS, including adding news, uploading images, and maintaining site structure
+- Administered user accounts and access controls for administrators
+- Moderated user comments and ensured compliance with guidelines
+- Monitored system security and addressed vulnerabilities
+
 
 **Waiter**  
 *West Hotel Ashdod (Salon Yevani Restaurant)*  
