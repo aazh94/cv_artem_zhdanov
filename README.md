@@ -10,12 +10,6 @@
 
 ---
 
-## Objective
-
-Aspiring System Administrator with a background in law and practical experience in website administration and IT projects. Currently enhancing skills in Linux System Administration, with a focus on server deployment, monitoring, and networking, aiming to contribute to a dynamic technical environment.
-
----
-
 ## Education
 
 **Netology**  
@@ -44,19 +38,10 @@ Aspiring System Administrator with a background in law and practical experience 
 ## Certificates
 
 - Linux Essentials (LPI, November 2024)
-- PC Technician (Minhaltech, July 2024)
-- Linux System Administration (Netology, October 2024)
-
 
 ---
 
 ## Work Experience
-
-**Room Service Attendant**  
-*Dan Panorama Hotel Tel Aviv*  
-*September 2023 – Present*  
-- Delivering exceptional room service to hotel guests
-- Ensuring customer satisfaction and timely service delivery
 
 **Website Administrator**  
 *Autonomous Non-Profit Organization "Perm City Consultation Center for Housing and Utilities"*  
@@ -69,30 +54,20 @@ Aspiring System Administrator with a background in law and practical experience 
 - Monitored system security and addressed vulnerabilities
 
 
-**Waiter**  
-*West Hotel Ashdod (Salon Yevani Restaurant)*  
-*2022 – 2023*  
-- Provided high-quality service to restaurant patrons
-- Managed customer orders and ensured a pleasant dining experience
-
 **Corporate Lawyer**  
-*Russia*  
+*LLC "Development Strategies"*  
 *2014 – 2022*  
 - Provided legal counsel to corporate clients
 - Managed legal documentation and corporate compliance
-
-**Bank Courier**  
-*Russia*  
-*2013 – 2014*  
-- Handled and delivered sensitive banking documents
 
 ---
 
 ## Skills
 
 - **Operating Systems:** Linux (Ubuntu, CentOS), Windows
-- **Tools & Technologies:** Bash, Git, Ansible, Docker, Virtualization
-- **Networking:** VPN setup (WireGuard, OpenVPN)
+- **Tools & Technologies:**  Bash, Git, Ansible, Docker, Terraform, Virtualization (VirtualBox, VMware), Active Directory
+- **Networking:** VPN setup (WireGuard, OpenVPN), Network configuration and troubleshooting
+- **Monitoring & Visualization:** Zabbix, Grafana, Kibana
 
 ---
 
